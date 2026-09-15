@@ -23,7 +23,7 @@
       "name": "eli5",
       "source": "./plugins/eli5",
       "description": "Eli5 agent workflow skill.",
-      "version": "0.1.2"
+      "version": "0.1.3"
     },
     {
       "name": "git",
@@ -35,7 +35,7 @@
       "name": "github",
       "source": "./plugins/github",
       "description": "GitHub workflow skills for pull requests, reviews, and CI.",
-      "version": "0.1.10"
+      "version": "0.1.11"
     },
     {
       "name": "intent-log",
