@@ -12,6 +12,9 @@
   "pi": {
     "skills": [
       "./plugins/*/skills"
+    ],
+    "extensions": [
+      "./plugins/*/extensions"
     ]
   },
   "scripts": {

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intent Log"
+  short_description: "Record one person's daily intent and PR outcomes"
+  default_prompt: "Use $intent-log to update my global intent log from this conversation and verify the PR status."

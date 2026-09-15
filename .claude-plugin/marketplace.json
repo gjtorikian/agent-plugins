@@ -38,6 +38,12 @@
       "version": "0.1.10"
     },
     {
+      "name": "intent-log",
+      "source": "./plugins/intent-log",
+      "description": "Keep one global daily log of a person's intent and decisions across every repository, with verified pull-request status.",
+      "version": "0.1.0"
+    },
+    {
       "name": "interactive-explainer",
       "source": "./plugins/interactive-explainer",
       "description": "Build offline interactive HTML explainers grounded in real codebase details.",
