@@ -1,6 +1,6 @@
 ---
 name: review
-description: Reviews a GitHub pull request for code quality, breaking changes, test coverage, and documentation, with an emphasis on SDK repositories. Use when the user asks to review, audit, or inspect a PR. Presents structured findings locally and never posts them to GitHub.
+description: Reviews a GitHub pull request for code quality, breaking changes, test coverage, and documentation. Use when the user asks to review, audit, or inspect a PR. Presents structured findings locally and never posts them to GitHub.
 ---
 
 # SDK PR Review
