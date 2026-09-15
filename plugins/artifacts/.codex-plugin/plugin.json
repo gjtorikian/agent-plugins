@@ -1,6 +1,6 @@
 {
   "name": "artifacts",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Render agent output as a self-contained black-and-white HTML page with an in-page annotation layer that hands comments back as a markdown digest.",
   "author": {
     "name": "Garen J. Torikian"

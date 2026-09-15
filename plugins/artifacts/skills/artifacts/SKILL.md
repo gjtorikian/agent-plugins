@@ -118,7 +118,7 @@ If an item asks for something you disagree with, say so in its line instead of s
 
 ## Design rules
 
-Black ink on white paper, inverted for dark mode. Poster-scale grotesk headline, 3px rules between sections, at most one black callout block, and no decoration beyond that — no color, no shadows, no rounded corners, no icons. Comment marks are a 3px underline plus a circled number. The template already contains all of it, so your content block adds no styling of any kind.
+Use the system theme (`prefers-color-scheme`): black ink on white paper in light mode, inverted in dark mode. Poster-scale grotesk headline, 3px rules between sections, at most one black callout block, and no decoration beyond that — no color, no shadows, no rounded corners, no icons. Comment marks are a 3px underline plus a circled number. The template already contains all of it, so your content block adds no styling of any kind.
 
 ## Example
 

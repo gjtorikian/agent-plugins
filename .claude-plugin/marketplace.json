@@ -17,7 +17,7 @@
       "name": "artifacts",
       "source": "./plugins/artifacts",
       "description": "Render agent output as a self-contained black-and-white HTML page with an in-page annotation layer that hands comments back as a markdown digest.",
-      "version": "0.3.0"
+      "version": "0.3.1"
     },
     {
       "name": "eli5",
@@ -46,8 +46,8 @@
     {
       "name": "interactive-explainer",
       "source": "./plugins/interactive-explainer",
-      "description": "Build offline interactive HTML explainers grounded in real codebase details.",
-      "version": "0.1.0"
+      "description": "Build offline interactive HTML explainers grounded in real code, with a dedicated review section for GitHub PRs.",
+      "version": "0.2.0"
     }
   ]
 }
