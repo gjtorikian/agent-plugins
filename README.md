@@ -40,6 +40,17 @@ pi install git:github.com/gjtorikian/agent-plugins
 
 Pi loads every shared skill declared in `package.json`. Invoke one with `/skill:commit`, `/skill:review`, or another listed skill name.
 
+## Available plugins
+
+| Plugin | Workflows |
+| --- | --- |
+| [agents](plugins/agents) | Session handoffs |
+| [artifacts](plugins/artifacts) | HTML artifacts with in-page comments |
+| [eli5](plugins/eli5) | Audience-tailored explanations |
+| [git](plugins/git) | Conventional commits |
+| [github](plugins/github) | Pull requests, reviews, and CI babysitting |
+| [interactive-explainer](plugins/interactive-explainer) | Offline interactive HTML grounded in code |
+
 ## Repository layout
 
 ```text

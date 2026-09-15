@@ -1,0 +1,31 @@
+{
+  "name": "interactive-explainer",
+  "version": "0.1.0",
+  "description": "Build offline interactive HTML explainers grounded in real codebase details.",
+  "author": {
+    "name": "Garen J. Torikian"
+  },
+  "repository": "https://github.com/gjtorikian/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "interactive-explainer",
+    "html",
+    "visualization",
+    "debugging"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Interactive Explainer",
+    "shortDescription": "Explore bugs, fixes, and data in offline HTML",
+    "longDescription": "Build offline interactive HTML explainers grounded in real codebase details.",
+    "developerName": "Garen J. Torikian",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $interactive-explainer to build an interactive HTML page explaining this bug and its fix."
+    ]
+  }
+}

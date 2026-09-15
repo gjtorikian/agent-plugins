@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interactive Explainer"
+  short_description: "Explore bugs, fixes, and data in offline HTML"
+  default_prompt: "Use $interactive-explainer to build an interactive HTML page explaining this bug and its fix."

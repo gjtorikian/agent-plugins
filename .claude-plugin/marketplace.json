@@ -36,6 +36,12 @@
       "source": "./plugins/github",
       "description": "GitHub workflow skills for pull requests, reviews, and CI.",
       "version": "0.1.10"
+    },
+    {
+      "name": "interactive-explainer",
+      "source": "./plugins/interactive-explainer",
+      "description": "Build offline interactive HTML explainers grounded in real codebase details.",
+      "version": "0.1.0"
     }
   ]
 }
