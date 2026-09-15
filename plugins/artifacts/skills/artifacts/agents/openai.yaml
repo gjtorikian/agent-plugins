@@ -1,4 +1,4 @@
 interface:
-  display_name: "Annotations"
+  display_name: "Artifacts"
   short_description: "Render agent output as a self-contained black-and-white HTML page with an in-page annotation layer that hands comments back as a markdown digest."
-  default_prompt: "Use $annotations to render this as a page."
+  default_prompt: "Use $artifacts to render this as a page."

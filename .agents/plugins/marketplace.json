@@ -17,10 +17,10 @@
       "category": "Productivity"
     },
     {
-      "name": "annotations",
+      "name": "artifacts",
       "source": {
         "source": "local",
-        "path": "./plugins/annotations"
+        "path": "./plugins/artifacts"
       },
       "policy": {
         "installation": "AVAILABLE",

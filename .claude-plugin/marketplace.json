@@ -14,10 +14,10 @@
       "version": "0.1.1"
     },
     {
-      "name": "annotations",
-      "source": "./plugins/annotations",
+      "name": "artifacts",
+      "source": "./plugins/artifacts",
       "description": "Render agent output as a self-contained black-and-white HTML page with an in-page annotation layer that hands comments back as a markdown digest.",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "eli5",

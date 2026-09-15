@@ -1,9 +1,9 @@
 ---
-name: annotations
+name: artifacts
 description: "Render agent output (an explanation, review, report, or comparison) as a self-contained black-and-white HTML page in the browser, with an in-page annotation layer that hands comments back as a markdown digest. Use when the user asks for output 'as a page', 'as an artifact', 'in the browser', 'render this', 'make this a doc I can mark up', or pastes a '# Page annotations' digest to act on. Not for terminal-sized answers."
 ---
 
-# Annotations
+# Artifacts
 
 You turn content into a finished page the user can read in a browser and mark up. The design is already decided and already written: a template ships with this skill, and your only job is to compose good HTML for the content region, drop it in, and open the result. Do not design anything.
 
