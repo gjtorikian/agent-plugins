@@ -14,10 +14,10 @@
       "version": "0.1.1"
     },
     {
-      "name": "annotations",
-      "source": "./plugins/annotations",
+      "name": "artifacts",
+      "source": "./plugins/artifacts",
       "description": "Render agent output as a self-contained black-and-white HTML page with an in-page annotation layer that hands comments back as a markdown digest.",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "name": "eli5",
@@ -36,6 +36,18 @@
       "source": "./plugins/github",
       "description": "GitHub workflow skills for pull requests, reviews, and CI.",
       "version": "0.1.10"
+    },
+    {
+      "name": "intent-log",
+      "source": "./plugins/intent-log",
+      "description": "Keep one global daily log of a person's intent and decisions across every repository, with verified pull-request status.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "interactive-explainer",
+      "source": "./plugins/interactive-explainer",
+      "description": "Build offline interactive HTML explainers grounded in real codebase details.",
+      "version": "0.1.0"
     }
   ]
 }

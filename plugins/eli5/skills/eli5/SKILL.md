@@ -56,7 +56,7 @@ Write confidently and clearly. Respect their intelligence while bridging knowled
 
 ## Rendering as a page
 
-Only when the user asks for the explanation as a page, an artifact, or "in the browser": if the annotations skill is available, hand the finished explanation to it with the title, the audience line as the eyebrow (for example "Explained for an engineering manager"), and the explanation as the content, and let it render and open the page; reply in the terminal with one line and the path. If the annotations skill is not available, say that it ships as `annotations@gjtorikian-plugins` in this marketplace and give the explanation in the terminal instead. Never render a page the user did not ask for.
+Only when the user asks for the explanation as a page, an artifact, or "in the browser": if the artifacts skill is available, hand the finished explanation to it with the title, the audience line as the eyebrow (for example "Explained for an engineering manager"), and the explanation as the content, and let it render and open the page; reply in the terminal with one line and the path. If the artifacts skill is not available, say that it ships as `artifacts@gjtorikian-plugins` in this marketplace and give the explanation in the terminal instead. Never render a page the user did not ask for.
 
 ## Important Reminders
 

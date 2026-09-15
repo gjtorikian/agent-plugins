@@ -1,6 +1,6 @@
 {
-  "name": "annotations",
-  "version": "0.2.0",
+  "name": "artifacts",
+  "version": "0.3.0",
   "description": "Render agent output as a self-contained black-and-white HTML page with an in-page annotation layer that hands comments back as a markdown digest.",
   "author": {
     "name": "Garen J. Torikian"
@@ -8,8 +8,8 @@
   "repository": "https://github.com/gjtorikian/agent-plugins",
   "license": "MIT",
   "keywords": [
-    "annotations",
     "artifacts",
+    "annotations",
     "html",
     "eli5"
   ],

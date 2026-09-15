@@ -1,0 +1,31 @@
+{
+  "name": "intent-log",
+  "version": "0.1.0",
+  "description": "Keep one global daily log of a person's intent and decisions across every repository, with verified pull-request status.",
+  "author": {
+    "name": "Garen J. Torikian"
+  },
+  "repository": "https://github.com/gjtorikian/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "intent-log",
+    "documentation",
+    "decisions",
+    "pull-requests"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Intent Log",
+    "shortDescription": "Record one person's daily intent and PR outcomes",
+    "longDescription": "Keep one global daily log of a person's intent and decisions across every repository, with verified pull-request status.",
+    "developerName": "Garen J. Torikian",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $intent-log to update my global intent log from this conversation and verify the PR status."
+    ]
+  }
+}
