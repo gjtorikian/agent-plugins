@@ -38,7 +38,7 @@ Install the repository as one Pi package:
 pi install git:github.com/gjtorikian/agent-plugins
 ```
 
-Pi loads every shared skill declared in `package.json`, plus any Pi extension a plugin bundles under `extensions/`. Invoke a skill with `/skill:commit`, `/skill:review`, or another listed skill name. Today only [intent-log](plugins/intent-log) ships an extension, for automatic prompt capture.
+Pi loads every shared skill declared in `package.json`, plus any Pi extension a plugin bundles under `extensions/`. Invoke a skill with `/skill:commit`, `/skill:review`, or another listed skill name.
 
 ## Available plugins
 
@@ -49,7 +49,6 @@ Pi loads every shared skill declared in `package.json`, plus any Pi extension a 
 | [eli5](plugins/eli5) | Audience-tailored explanations |
 | [git](plugins/git) | Conventional commits and default-branch merges |
 | [github](plugins/github) | Pull requests, reviews, CI inspection, and babysitting |
-| [intent-log](plugins/intent-log) | One person's daily intent and PR outcomes across every repo |
 | [interactive-explainer](plugins/interactive-explainer) | Offline interactive HTML grounded in code |
 
 ## Repository layout
