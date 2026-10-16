@@ -35,7 +35,7 @@
       "name": "github",
       "source": "./plugins/github",
       "description": "GitHub workflow skills for pull requests, reviews, and CI.",
-      "version": "0.1.11"
+      "version": "0.2.0"
     },
     {
       "name": "intent-log",

@@ -1,6 +1,6 @@
 {
   "name": "github",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "description": "GitHub workflow skills for pull requests, reviews, and CI.",
   "author": {
     "name": "Garen J. Torikian"
@@ -16,8 +16,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "GitHub Workflows",
-    "shortDescription": "Create, review, and shepherd pull requests",
-    "longDescription": "Create pull requests, review changes, and shepherd CI and reviewer feedback through completion.",
+    "shortDescription": "Create, review, debug, and shepherd pull requests",
+    "longDescription": "Create pull requests, review changes, investigate CI failures, and shepherd CI and reviewer feedback through completion.",
     "developerName": "Garen J. Torikian",
     "category": "Productivity",
     "capabilities": [
