@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inspect CI Failure"
+  short_description: "Diagnose a failing CI run and report the root cause"
+  default_prompt: "Use $ci-inspect to investigate why CI is failing on this pull request."

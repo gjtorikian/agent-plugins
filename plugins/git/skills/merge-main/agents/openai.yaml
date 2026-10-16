@@ -1,0 +1,4 @@
+interface:
+  display_name: "Merge Default Branch"
+  short_description: "Merge main into the current branch and resolve conflicts"
+  default_prompt: "Use $merge-main to merge the default branch into my branch and resolve any conflicts."

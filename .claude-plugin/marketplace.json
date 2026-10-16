@@ -28,20 +28,14 @@
     {
       "name": "git",
       "source": "./plugins/git",
-      "description": "Git workflow skills for conventional commits.",
-      "version": "0.1.7"
+      "description": "Git workflow skills for conventional commits and branch maintenance.",
+      "version": "0.2.0"
     },
     {
       "name": "github",
       "source": "./plugins/github",
       "description": "GitHub workflow skills for pull requests, reviews, and CI.",
-      "version": "0.1.11"
-    },
-    {
-      "name": "intent-log",
-      "source": "./plugins/intent-log",
-      "description": "Keep one global daily log of a person's intent and decisions across every repository, with verified pull-request status.",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "name": "interactive-explainer",

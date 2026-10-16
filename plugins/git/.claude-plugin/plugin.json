@@ -1,7 +1,7 @@
 {
   "name": "git",
-  "version": "0.1.7",
-  "description": "Git workflow skills for conventional commits.",
+  "version": "0.2.0",
+  "description": "Git workflow skills for conventional commits and branch maintenance.",
   "author": {
     "name": "Garen J. Torikian"
   },
@@ -10,7 +10,9 @@
   "keywords": [
     "git",
     "commit",
-    "conventional-commits"
+    "conventional-commits",
+    "merge",
+    "conflicts"
   ],
   "skills": "./skills/"
 }
