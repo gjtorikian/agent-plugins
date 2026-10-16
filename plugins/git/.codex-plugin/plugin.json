@@ -1,7 +1,7 @@
 {
   "name": "git",
-  "version": "0.1.7",
-  "description": "Git workflow skills for conventional commits.",
+  "version": "0.2.0",
+  "description": "Git workflow skills for conventional commits and branch maintenance.",
   "author": {
     "name": "Garen J. Torikian"
   },
@@ -10,13 +10,15 @@
   "keywords": [
     "git",
     "commit",
-    "conventional-commits"
+    "conventional-commits",
+    "merge",
+    "conflicts"
   ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Git Workflows",
-    "shortDescription": "Create clean, conventional Git commits",
-    "longDescription": "Analyze changes, split them into logical units when needed, and create clear conventional commits.",
+    "shortDescription": "Create conventional commits and keep branches current",
+    "longDescription": "Analyze changes, split them into logical units when needed, create clear conventional commits, and merge the default branch into feature branches with conflicts resolved.",
     "developerName": "Garen J. Torikian",
     "category": "Productivity",
     "capabilities": [
@@ -25,7 +27,8 @@
     ],
     "defaultPrompt": [
       "Commit my current changes.",
-      "Commit my changes and push them."
+      "Commit my changes and push them.",
+      "Merge the default branch into my branch and resolve conflicts."
     ]
   }
 }
